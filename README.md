@@ -3,7 +3,7 @@
 - A locally run application that demonstrates different matching algorithms 
 - Current release compares files as a one to one connection
 - Outputs given percentage of similarity and highlighted visualization of the matching sections of input documents
-- Supports, raw text files and python files currently, with C++ and java planned in the future releases
+- Supports C, C++, Java, and Python files
 
 ## Project Group: Codalyzers
 - Djoni Austin | @dcaust1n
