@@ -9,9 +9,17 @@
 
 ## Getting Started
 
-Install PySide2: `pip install scam`
+Install the following packages:
 
-Run from directly outside `source` directory: `python3 ./source/scam.py`
+PySide2: `pip3 install PySide2`
+NetworkX: `pip install networkx`
+matplotlib: `pip install matplotlib`
+Grave: `pip install grave`
+javalang: `pip install javalang`
+libclang: `pip install libclang`
+pycparser: `pip install pycparser`
+
+Run from directly inside `source` directory: `python3 ./scam.py`
 
 ## Known Errors/Issues
 Issues- 
