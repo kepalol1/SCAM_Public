@@ -13,40 +13,6 @@ Install PySide2: `pip install scam`
 
 Run from directly outside `source` directory: `python3 ./source/scam.py`
 
-## Getting Started
-
-#### STEP 1 
-
-it is recommended to create and navigate to virtual environemnt using python to run script
-
-    python3.8 -m venv <dir> 
-    source <dir>/bin/activate
-
-#### STEP 2
-
-install source_analyzer python package from Python Package Index.
-**Note:** must be running python version 3.8 or greater
-
-    pip install scam
-
-
-###### OR
-
-Download the latest built compressed file release from [source_analyzer-X.X.X.tar.gz](https://github.com/SourceCodeAnalyzingMachine/SCAM_Public/tree/master/dist)
-
-
-
-then install downloaded file
-
-    pip3 install /<path_to_file>/scam-0.0.2.tar.gz
-
-
-#### STEP 3
-(make sure xlaunch is running)
-run script
-
-    scam
-
 ## Known Errors/Issues
 Issues- 
 Python files featuring a heavy amount of print statements may cause skewed data. 
