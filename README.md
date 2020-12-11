@@ -12,14 +12,20 @@
 Install the following packages:
 
 PySide2: `pip3 install PySide2`
-NetworkX: `pip install networkx`
-matplotlib: `pip install matplotlib`
-Grave: `pip install grave`
-javalang: `pip install javalang`
-libclang: `pip install libclang`
-pycparser: `pip install pycparser`
 
-Run from directly inside `source` directory: `python3 ./scam.py`
+NetworkX: `pip3 install networkx`
+
+matplotlib: `pip3 install matplotlib`
+
+Grave: `pip3 install grave`
+
+javalang: `pip3 install javalang`
+
+libclang: `pip3 install libclang`
+
+pycparser: `pip3 install pycparser`
+
+Run from inside `source` directory: `python3 ./scam.py`
 
 ## Known Errors/Issues
 Issues- 
