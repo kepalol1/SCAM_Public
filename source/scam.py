@@ -4,9 +4,9 @@ from PySide2.QtWidgets import *
 from PySide2.QtCore import *
 from PySide2.QtGui import *
 
-from source.frontend.pages.search_page import *
-from source.frontend.pages.results_page import *
-from source.frontend.pages.compare_page import *
+from frontend.pages.search_page import *
+from frontend.pages.results_page import *
+from frontend.pages.compare_page import *
 
 #SCAM Frontend
 #Some structure/design inspired from Mistletoe: https://github.com/cacticouncil/mistletoe

@@ -4,7 +4,7 @@ from PySide2.QtWidgets import *
 from PySide2.QtCore import *
 import os
 
-from source.backend.interface import *
+from backend.interface import *
 
 
 #GUI actions for the Search tab

@@ -2,8 +2,8 @@ from PySide2.QtWidgets import *
 from PySide2.QtCore import *
 from PySide2.QtGui import *
 import os
-from source.backend.interface import *
-from source.backend.analyzer import remove_comments
+from backend.interface import *
+from backend.analyzer import remove_comments
 
 #GUI actions for the Compare tab
 

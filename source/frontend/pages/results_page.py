@@ -2,8 +2,8 @@ from PySide2.QtWidgets import *
 from PySide2.QtCore import *
 from PySide2.QtUiTools import QUiLoader
 import copy
-from source.frontend.util.document import Document
-from source.backend.interface import *
+from frontend.util.document import Document
+from backend.interface import *
 from math import floor
 from copy import deepcopy
 from threading import Thread
